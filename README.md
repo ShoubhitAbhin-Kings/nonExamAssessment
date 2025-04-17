@@ -81,6 +81,7 @@ The directory for this project is as follows:
     └── ... (same as model1)
   └── model6
     └── ... (same as model1)
+├── requirements.txt
   
 ```
 
