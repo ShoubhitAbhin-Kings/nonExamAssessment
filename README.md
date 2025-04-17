@@ -43,6 +43,15 @@ The directory for this project is as follows:
 ├── modelCreationAndTraining
   └── model.py
   └── train.py
+├── useThisFolderToRunTheProgram 
+  └── app.py
+  └── CNNModels
+    └── model1.keras
+    └── model2.keras
+    └── model3.keras
+    └── model4.keras
+    └── model5.keras
+    └── model6.keras
 ├── dataForAllModels
   └── model1
     └── augmented
@@ -74,9 +83,6 @@ The directory for this project is as follows:
     └── ... (same as model1)
   
 ```
-
-
-
 
 ---
 
