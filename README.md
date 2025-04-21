@@ -10,6 +10,7 @@
 Please read and understand this README.md file **before** reading the documentation and exploring the code.
 
 ---
+NOTE: The ```noMLProc.py``` and ```unitTestLetterB``` and ```unitTestLetterE``` files are for the non-ML approach only
 
 The directory for this project is as follows:
 ```
@@ -85,7 +86,6 @@ The directory for this project is as follows:
   
 ```
 
-**NOTE: The ```noMLProc.py``` and ```unitTestLetterB``` and ```unitTestLetterE``` files are for the non-ML approach only**
 ---
 
 The following files are solely for the purpose of the examiner as complete evidence of the investigation, not required to run the final product:
