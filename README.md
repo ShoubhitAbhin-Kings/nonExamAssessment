@@ -44,8 +44,7 @@ The directory for this project is as follows:
   └── app.py
 ├── modelCreationAndTraining
   └── model.py
-  └── train.py
-├── useThisFolderToRunTheProgram 
+  └── train.py 
   └── app.py
   └── CNNModels
     └── model1.keras
@@ -115,7 +114,7 @@ The following files are the files a user would need installed on their local mac
 
 These can also be downloaded directly from the model Github - https://github.com/ShoubhitAbhin-Kings/nonExamAssessmentModelsAndImages
 
-It is **imperative** that the models (files ending in ```.keras```) are stored inside a folder called ```"CNNModels"```, otherwise the program **will not** run. If they are stored in a folder with a different name, this **must** be changed to ```"CNNModels"```. For ease of use, the ```"useThisFolderToRunTheProgram"``` folder includes the files listed above in the structure required for the program to run, hence it is recommended to just download this folder to solely run the program (**NOTE - this will be added at a later date**).
+It is **imperative** that the models (files ending in ```.keras```) are stored inside a folder called ```"CNNModels"```, otherwise the program **will not** run. If they are stored in a folder with a different name, this **must** be changed to ```"CNNModels"```. 
 
 It is recommended to create and use a virtual environment to manage the dependencies for this investigation and avoid conflicts with other Python projects on your system. First create and activate a virtual environment (see specific documentation for your system if unsure), and then install the project dependencies listed ```requirements.txt```. This can be done using the command ```pip install -r requirements.txt```.
 
