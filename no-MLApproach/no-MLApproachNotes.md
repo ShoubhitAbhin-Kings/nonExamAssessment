@@ -9,3 +9,10 @@
 
 ---
 
+This folder contains the following files which are part of the non-ML Approach:
+
+* ```nonMLProc.py```
+* ```unitTestLetterB.py```
+* ```unitTestLetterE.py```
+
+
