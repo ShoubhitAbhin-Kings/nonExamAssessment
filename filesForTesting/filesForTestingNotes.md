@@ -8,3 +8,13 @@
 #### Candidate Number – 8000
 
 ---
+
+This folder contains the following files which are part of Files For Testing:
+
+* ```binaryClassificationMatrix.py```
+* ```confusionMatrix.py```
+* ```dataAugmentationDotPyTest.py```
+* ```dataCollectionDotPyTest.py```
+* ```gestureQueueLogicTest.py```
+* ```modelDotPyTest.py```
+* ```trainDotPyTest.py```
