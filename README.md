@@ -13,21 +13,8 @@ At the beginning of this project, two possible approaches for real-time sign lan
 ---
 NOTE: The ```noMLProc.py```, ```unitTestLetterB``` and ```unitTestLetterE``` files are for the non-ML approach only, hence not included in the directory below, which outlines the directory for the ML approach.
 
-The directory for this project is as follows:
+The directory for this GitHub Repository is as follows:
 ```
-├── CNNModels
-  └── model1.h5
-  └── model1.keras
-  └── model2.h5
-  └── model2.keras
-  └── model3.h5
-  └── model3.keras
-  └── model4.h5
-  └── model4.keras
-  └── model5.h5
-  └── model5.keras
-  └── model6.h5
-  └── model6.keras
 ├── dataCollectionAndAugmentation
   └── dataAugmentation.py
   └── dataCollection.py
@@ -48,43 +35,13 @@ The directory for this project is as follows:
   └── model.py
   └── train.py 
   └── app.py
-  └── CNNModels
-    └── model1.keras
-    └── model2.keras
-    └── model3.keras
-    └── model4.keras
-    └── model5.keras
-    └── model6.keras
-├── dataForAllModels
-  └── model1
-    └── augmented
-    └── notAugmented
-    └── trainOnThese
-      └── evaluation
-        └── A
-        └── B
-        └── C
-        └── D
-        └── E
-        └── Unknown
-      └── train
-        └── A
-        └── B
-        └── C
-        └── D
-        └── E
-        └── Unknown
-  └── model2
-    └── ... (same as model1)
-  └── model3
-    └── ... (same as model1)
-  └── model4
-    └── ... (same as model1)
-  └── model5
-    └── ... (same as model1)
-  └── model6
-    └── ... (same as model1)
+├── non-ML Approach
+  └── nonMLProc.py
+  └── unitTestLetterB.py
+  └── unitTestLetterE.py
 ├── requirements.txt
+├── AQAALevelComputerScienceNEADocumentation
+├── README.md
   
 ```
 
@@ -116,7 +73,7 @@ The following files are the files a user would need installed on their local mac
 * ```model5.keras```
 * ```model6.keras```
 
-These can also be downloaded directly from the model Github - https://github.com/ShoubhitAbhin-Kings/nonExamAssessmentModelsAndImages
+The **model** files can be downloaded directly from the model Github - https://github.com/ShoubhitAbhin-Kings/nonExamAssessmentModelsAndImages
 
 It is **imperative** that the models (files ending in ```.keras```) are stored inside a folder called ```"CNNModels"```, otherwise the program **will not** run. If they are stored in a folder with a different name, this **must** be changed to ```"CNNModels"```. 
 
