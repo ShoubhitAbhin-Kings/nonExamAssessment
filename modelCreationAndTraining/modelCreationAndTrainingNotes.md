@@ -8,3 +8,8 @@
 #### Candidate Number – 8000
 
 ---
+
+This folder contains the following files which are part of Phase 2 Model Creation & Training:
+
+* ```model.py```
+* ```train.py```
