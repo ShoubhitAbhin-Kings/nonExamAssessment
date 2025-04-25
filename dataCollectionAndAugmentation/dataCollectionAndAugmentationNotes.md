@@ -8,3 +8,8 @@
 #### Candidate Number – 8000
 
 ---
+
+This folder contains the following files which are part of Phase 1 Data Collection & Augmentation:
+
+* ```dataAugmentation.py```
+* ```dataCollection.py```
