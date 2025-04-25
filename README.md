@@ -35,11 +35,13 @@ The directory for this project is as follows:
   └── linkedListGestureQueue.py
   └── saveAsh5.py
 ├── filesForTesting
+  └── binaryClassificationMatrix.py
   └── confusionMatrix.py
-  └── fileSavingUnitTest.py
-  └── gestureProcessingUnitTest.py
-  └── queueOperationUnitTest.py
-  └── UIDisplayUnitTest.py
+  └── dataAugmentationDotPyTest.py
+  └── dataCollectionDotPyTest.py
+  └── gestureQueueLogicTest.py
+  └── modelDotPyTest.py
+  └── trainDotPyTest.py
 ├── finalProduct
   └── app.py
 ├── modelCreationAndTraining
@@ -94,10 +96,12 @@ The following files are solely for the purpose of the examiner as complete evide
 * ```model.py```
 * ```train.py```
 * ```confusionMatrix.py```
-* ```fileSavingUnitTest.py```
-* ```gestureProcessingUnitTest.py```
-* ```queueOperationUnitTest.py```
-* ```UIDisplayUnitTest.py```
+* ```binaryClassificationMatrix.py```
+* ```dataAugmentationDotPyTest.py```
+* ```dataCollectionDotPyTest.py```
+* ```gestureQueueLogicTest.py```
+* ```modelDotPyTest.py```
+* ```trainDotPyTest.py```
 * ```saveAsh5.py```
 * ```linkedListGestureQueue.py```
 
@@ -119,6 +123,9 @@ It is **imperative** that the models (files ending in ```.keras```) are stored i
 It is recommended to create and use a virtual environment to manage the dependencies for this investigation and avoid conflicts with other Python projects on your system. First create and activate a virtual environment (see specific documentation for your system if unsure), and then install the project dependencies listed ```requirements.txt```. This can be done using the command ```pip install -r requirements.txt```.
 
 ---
+
+The video evidence for the project can be found on this Google Drive folder: https://drive.google.com/drive/folders/1IdfUlgyU6PbQq5lwh0EVk3NoKjsqhQmJ
+For access, please contact james.campbell@kingsacademies.uk (Head of Computing - King's Academy Binfield)
 
 For further instruction on how to run the program, as well as complete documentation of the investigative process, see ```AQAALevelComputerScienceNEADocumentation```.
 
