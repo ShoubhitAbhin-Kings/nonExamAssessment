@@ -73,7 +73,7 @@ The following files are the files a user would need installed on their local mac
 * ```model5.keras```
 * ```model6.keras```
 
-The **model** files can be downloaded directly from the model Github - https://github.com/ShoubhitAbhin-Kings/nonExamAssessmentModelsAndImages
+The **model** files can be downloaded directly from the project sharepoint - https://kingsacademiesuk-my.sharepoint.com/:f:/g/personal/j_campbell_kingsacademies_uk/EsYdvlKx5MRNoo3OGHByJX0Bu2HKxMW7jqdluUf9fpMjTA?e=gq1Dm1
 
 It is **imperative** that the models (files ending in ```.keras```) are stored inside a folder called ```"CNNModels"```, otherwise the program **will not** run. If they are stored in a folder with a different name, this **must** be changed to ```"CNNModels"```. 
 
@@ -81,8 +81,9 @@ It is recommended to create and use a virtual environment to manage the dependen
 
 ---
 
-The video evidence for the project can be found on this Google Drive folder: https://drive.google.com/drive/folders/1IdfUlgyU6PbQq5lwh0EVk3NoKjsqhQmJ
-For access, please contact james.campbell@kingsacademies.uk (Head of Computing - King's Academy Binfield)
+The video evidence for the project can be found on the project sharepoint - https://kingsacademiesuk-my.sharepoint.com/:f:/g/personal/j_campbell_kingsacademies_uk/EsYdvlKx5MRNoo3OGHByJX0Bu2HKxMW7jqdluUf9fpMjTA?e=gq1Dm1
+
+If there are issues accessing the sharepoint or other files, please contact james.campbell@kingsacademies.uk (Head of Computing - King's Academy Binfield)
 
 For further instruction on how to run the program, as well as complete documentation of the investigative process, see ```AQAALevelComputerScienceNEADocumentation```.
 
