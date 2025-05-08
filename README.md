@@ -11,6 +11,10 @@ Please read and understand this README.md file **before** reading the documentat
 At the beginning of this project, two possible approaches for real-time sign language recognition were considered: a non-machine learning (non-ML) approach and a machine learning (ML) approach. Further details can be found in the documentation (```AQAALevelComputerScienceNEADocumentation```). This message is included here so that references to the 'ML' and 'non-ML' approach from here on in are understood.
 
 ---
+
+The video evidence for the project can be found on the project sharepoint - https://kingsacademiesuk-my.sharepoint.com/:f:/g/personal/j_campbell_kingsacademies_uk/EsYdvlKx5MRNoo3OGHByJX0Bu2HKxMW7jqdluUf9fpMjTA?e=gq1Dm1
+
+---
 NOTE: The ```noMLProc.py```, ```unitTestLetterB``` and ```unitTestLetterE``` files are for the non-ML approach only, hence not included in the directory below, which outlines the directory for the ML approach.
 
 The directory for this GitHub Repository is as follows:
