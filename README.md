@@ -12,7 +12,7 @@ At the beginning of this project, two possible approaches for real-time sign lan
 
 ---
 
-The video evidence for the project can be found on the project sharepoint - https://kingsacademiesuk-my.sharepoint.com/:f:/g/personal/j_campbell_kingsacademies_uk/EsYdvlKx5MRNoo3OGHByJX0Bu2HKxMW7jqdluUf9fpMjTA?e=gq1Dm1
+The video evidence, models, and sample images for the project can be found on the project sharepoint - https://kingsacademiesuk-my.sharepoint.com/:f:/g/personal/j_campbell_kingsacademies_uk/EsYdvlKx5MRNoo3OGHByJX0Bu2HKxMW7jqdluUf9fpMjTA?e=gq1Dm1
 
 ---
 NOTE: The ```noMLProc.py```, ```unitTestLetterB``` and ```unitTestLetterE``` files are for the non-ML approach only, hence not included in the directory below, which outlines the directory for the ML approach.
